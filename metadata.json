@@ -1,0 +1,7 @@
+{
+  "name": "APA - Autonomous Personal Agent",
+  "description": "A sophisticated AI-powered dashboard for the Autonomous Personal Agent (APA), featuring natural language orchestration, real-time calling, and multi-task execution.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
